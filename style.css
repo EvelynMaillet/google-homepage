@@ -126,6 +126,10 @@ main{
     color: #101010;
 }
 
+#search:focus{
+    outline: none;
+}
+
 #mag_logo{
     filter: opacity(50%);
     width: 80%;
